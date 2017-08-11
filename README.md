@@ -1,6 +1,6 @@
 # 5110-project
 
-Scripts i used to build and configure the servers for the techproj.  Pretty much everything from addressing to OUs and containers can be done with automation. Even DHCP scopes can be done this way. Admittidly, not everything is done with best practices in mind, you'll see a ton of plaintext passwords, so obviously don't do that unless you really want to have the shit hacked out of you. Some stuff is a little skectchy, just the way I like it. Most of it's preddy good though, and for the most part I'm proud of it. Have some fun with it...
+Scripts i used to build and configure the shmc servers for the techproj.  Pretty much everything from addressing to OUs and containers can be done with automation. Even DHCP scopes can be done this way. Admittedly, not everything is done with best practices in mind, you'll see a ton of plaintext passwords, so obviously don't do that unless you really want to have the shit hacked out of you. Some stuff is a little skectchy, just the way I like it. Most of it's preddy good though, and for the most part I'm proud of it. Have some fun with it...
 
 Take a look, fork it, clone it, idgaf. Send copies to your aunties and grandma. Pls. 
 
